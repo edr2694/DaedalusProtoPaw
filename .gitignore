@@ -1,0 +1,14 @@
+.fseventsd/no_log
+.vscode/arduino.json
+.vscode/settings.json
+archive/2matworkingtest.py
+archive/full_mat_test.py
+archive/quickTest.py
+lib/*
+.metadata_never_index
+.Trashes
+boot_out.txt
+font5x8.bin
+settings.toml
+System Volume Information/IndexerVolumeGuid
+System Volume Information/WPSettings.dat
